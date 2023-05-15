@@ -1,3 +1,3 @@
 # UTSpemogramanJaringan2023
 
-password = kombiinasi tanggal lahir pembaut
+password = kombiinasi tanggal lahir pembuat
